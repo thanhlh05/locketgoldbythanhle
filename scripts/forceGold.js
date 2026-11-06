@@ -17,7 +17,7 @@ if (ua.includes("Locket")) {
       custom_widget_frames: "enabled",
       streak_recovery: "enabled"
     }),
-    profile_badge_visible: "false",          // không cần badge
+    profile_badge_visible: "true",          // không cần badge
     android_subscribe_gold_button_enabled: "false"
   });
 
